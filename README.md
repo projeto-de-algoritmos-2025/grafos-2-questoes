@@ -27,7 +27,7 @@ Para explorar o conteúdo do tópico de Grafos 2, a dupla escolheu quatro exerc�
 ### [743 (Médio)](https://leetcode.com/problems/network-delay-time/description/)
 
 ![PrintResolucao743](/assets/743img.png)<br>
-
+https://www.youtube.com/watch?v=aoBnrkudXzs
 
 
 
