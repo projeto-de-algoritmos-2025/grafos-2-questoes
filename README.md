@@ -26,10 +26,7 @@ Para explorar o conteúdo do tópico de Grafos 2, a dupla escolheu quatro exerc�
 ## Screenshots
 ### [743 (Médio)](https://leetcode.com/problems/network-delay-time/description/)
 
-
-
-
-![PrintResolucao743](/grafos-2-questoes/assets/743img.png)<br>
+![PrintResolucao743](/assets/743img.png)<br>
 
 
 
@@ -37,8 +34,7 @@ Para explorar o conteúdo do tópico de Grafos 2, a dupla escolheu quatro exerc�
 ## Screenshots
 ### [778 (Difícil)](https://leetcode.com/problems/swim-in-rising-water/description/)
 
-
-![PrintResolucao778](/grafos-2-questoes/assets/778img.png)<br>
+![PrintResolucao778](/assets/778img.png)<br>
 
 
 ## Instalação
