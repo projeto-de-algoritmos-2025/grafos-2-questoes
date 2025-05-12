@@ -17,10 +17,10 @@ Repositório destinado à entrega do projeto de Grafos 2 da disciplina de Projet
 Para explorar o conteúdo do tópico de Grafos 2, a dupla escolheu quatro exercícios na plataforma online LeetCode: dois de nível difícil e dois de nível médio, para igualar o trabalho de cada um dos membros.
 |Problema | Nome |Nível de Dificuldade|
 | -- | -- | -- |
-|743  | Network Delay Time |Médio|
-|778  | Swim in Rising Water |Difícil|
-| --  | --  | -- |
-| --  | --  | -- |
+|743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Médio|
+|778  | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |Difícil|
+| 1489  | [find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)  | Difícil |
+| 1584  | [min-cost-to-connect-all-points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)   | Média |
 
 
 ## Screenshots
